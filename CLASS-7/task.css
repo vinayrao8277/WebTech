@@ -1,0 +1,9 @@
+@import url("./task2.css");
+@import url("./task3.css");
+@import url(./task4.css);
+
+
+h1{
+    color: cyan;
+    background-color: crimson;
+}
